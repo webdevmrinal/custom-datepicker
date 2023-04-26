@@ -1,0 +1,18 @@
+{
+  "name": "Custom DatePicker",
+  "version": "1.0.0",
+  "description": "Custom datepicker made from scratch using HTML, CSS and Vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  }
+}
