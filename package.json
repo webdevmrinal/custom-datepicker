@@ -2,7 +2,7 @@
   "name": "Custom DatePicker",
   "version": "1.0.0",
   "description": "Custom datepicker made from scratch using HTML, CSS and Vanilla JS",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "start": "parcel index.html"
   },
